@@ -1,0 +1,13 @@
+connect four
+
+legistics 
+
+1) when a player clicks on a box in row-1 a div needs to be added to the lowest epmty box in that column.
+
+tools 
+ 1.1 add event listener. maybe 7 event listeners on each box in row 1 
+
+
+ i click on 
+
+ 
